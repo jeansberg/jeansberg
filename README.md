@@ -1,5 +1,4 @@
-<!--![Logo](https://github.com/jeansberg/jeansberg/raw/master/logo_name.png)
-![Amiga](https://github.com/jeansberg/jeansberg/raw/master/boot.gif)-->
+![Logo](https://github.com/jeansberg/jeansberg/raw/master/logo_name.png)
 <div align="center">
 <h3>👨🏻 Jens Genberg | 💻👷🏻‍♂️ Software Engineer | 🌏 Gothenburg, Sweden </h3>
 </div>
