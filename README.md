@@ -4,11 +4,11 @@
 </div>
 
 ### About me
-* Day job: Fighting climate change with code 💚
+* Day job: 💚 Fighting climate change with code 
 * Hobbies:
-  * Guitar 🎸
-  * Video games 🕹
-  * Home brewing ⚗
+  * 🎸 Guitar 
+  * 🕹 Video games 
+  * ⚗ Home brewing 
 
 ### Some of the stuff I work with
 * ASP .NET Core
@@ -17,7 +17,8 @@
 
 ### Get in touch
 
-[![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/jensgenberg/) | [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/jeansblergh)
+* [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/jensgenberg/)
+* [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/jeansblergh)
 
 
 [![jeansberg's github stats](https://github-readme-stats.vercel.app/api?username=jeansberg)](https://github.com/anuraghazra/github-readme-stats)
