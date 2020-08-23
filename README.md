@@ -1,20 +1,18 @@
 ![Logo](https://github.com/jeansberg/jeansberg/raw/master/name.png)
 <div align="center">
-<h3>💻👷🏻‍♂️ Software Engineer | 🌏 Gothenburg, Sweden </h3>
+<h3>💻👷🏻‍♂️ Software Engineer | 🌏 Gothenburg, Sweden | 💚 Fighting Climate Change with Code  </h3>
 </div>
 
 ### About me
-* Day job: 💚 Fighting climate change with code 
+* Some of the stuff I work with
+  * 🌐 ASP .NET Core
+  * 📖 OpenAPI specs
+  * ☁ AWS
 * Hobbies:
   * 🎸 Guitar 
   * 🕹 Video games 
   * ⚗ Home brewing 
-
-### Some of the stuff I work with
-* ASP .NET Core
-* OpenAPI specs
-* AWS
-
+  
 ### Get in touch
 
 * [![li](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=Linkedin)](https://www.linkedin.com/in/jensgenberg/)
