@@ -19,5 +19,5 @@
 * [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/jeansblergh)
 
 
-[![jeansberg's github stats](https://github-readme-stats.vercel.app/api?username=jeansberg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeansberg)](https://github.com/anuraghazra/github-readme-stats)
+[![jeansberg's github stats](https://github-readme-stats.vercel.app/api?username=jeansberg?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeansberg?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
